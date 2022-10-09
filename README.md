@@ -18,7 +18,7 @@ Web/Mobile development has never been "just a passion" for me. It has offered an
 
 I've been studying front-end development since 2020, my main technologies are ReactJS, React Native, Native Base and Typescript.
 
-Technical Skills:
+Technical Skills :
 
 Front-end:
 * ReactJS; 
@@ -26,7 +26,7 @@ Front-end:
 * React Native;
 * Full responsive designs for mobile and web;
 
-Tests
+Tests:
 * Unit, integration
 * Jest
 * React testing library
@@ -37,8 +37,8 @@ Services, Process, and SoftSkills:
 * Agile development (Scrum and Kanban methodology)
 * Clean Code, Clean Architecture, and Design Patterns.
 
-DevOps
-* GitHub Actions 
+DevOps:
+* GitHub Actions;
  
 - 🎓 I’m currently studying Control and Automation Engineering at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 I’m constantly learning and improving my skills in ReactJS, React Native, Native Base and TypeScript.  💻📱
