@@ -18,13 +18,13 @@ Web/Mobile development has never been "just a passion" for me. It has offered an
 
 I've been studying front-end development since 2020, my main technologies are ReactJS, React Native, Native Base and Typescript.
 
-Technical Skills :
+Technical Skills:
 
 Front-end:
 * ReactJS; 
 * TypeScript;
 * React Native;
-* Full responsive designs for mobile and web;
+* Full responsive designs for mobile and web.
 
 Tests:
 * Unit, integration;
@@ -32,9 +32,9 @@ Tests:
 * React testing library;
 
 Services, Process, and SoftSkills:
-* English
-* Git, Gitflow, Conventional Commits, etc
-* Agile development (Scrum and Kanban methodology)
+* English;
+* Git, Gitflow, Conventional Commits, etc;
+* Agile development (Scrum and Kanban methodology);
 * Clean Code, Clean Architecture, and Design Patterns.
 
 DevOps:
