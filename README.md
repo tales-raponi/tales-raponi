@@ -27,9 +27,9 @@ Front-end:
 * Full responsive designs for mobile and web;
 
 Tests:
-* Unit, integration
-* Jest
-* React testing library
+* Unit, integration;
+* Jest;
+* React testing library;
 
 Services, Process, and SoftSkills:
 * English
