@@ -23,7 +23,7 @@ Technical Skills:
 Front-end:
 * ReactJS; 
 * TypeScript;
-* React Native;
+* React Native
 * Full responsive designs for mobile and web.
 
 Tests:
