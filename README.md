@@ -42,7 +42,7 @@ DevOps:
  
 - 🎓 I’m currently studying Control and Automation Engineering at [Federal University of Itajubá <img alt="Brazil Flag" title="Brazil" src="https://cdn.staticaly.com/gh/hjnilsson/country-flags/master/svg/br.svg" width="22">](https://en.unifei.edu.br/) (UNIFEI)
 - 🌱 I’m constantly learning and improving my skills in ReactJS, React Native, Native Base and TypeScript.  💻📱
-
+      
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Native Base](https://img.shields.io/badge/native_base-%2320232a.svg?style=for-the-badge&logo=nativebase&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 "Transport a handful of earth everyday and you will make a mountain."
