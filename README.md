@@ -7,7 +7,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-                                  
+                                        
 _______________    
 
 I'm a technology enthusiast with a positive mindset and a wild desire to learn new things. Since beginning my journey as a Front-End Student, I have continuously worked to improve my skills and optimize my projects more and more.
@@ -25,12 +25,12 @@ Front-end:
 * TypeScript;.     
 * React Native
 * Full responsive designs for mobile and web.
-
+      
 Tests:
 * Unit, integration;
 * Jest;
 * React testing library;
-
+     
 Services, Process, and SoftSkills:
 * English;
 * Git, Gitflow, Conventional Commits, etc;
