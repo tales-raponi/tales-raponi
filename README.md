@@ -11,7 +11,7 @@
 _______________    
 
 I'm a technology enthusiast with a positive mindset and a wild desire to learn new things. Since beginning my journey as a Front-End Student, I have continuously worked to improve my skills and optimize my projects more and more.
-     
+           
 I've broad experience with ReactJS, React Native, Native Base and Typescript.
 
 Web/Mobile development has never been "just a passion" for me. It has offered an engaging challenge to continuously learn and improve my skills in creating better websites or mobile apps. What started with just a curiosity of building something has become a full-fledged passion that only makes me more interested as the years go by. :rocket:
