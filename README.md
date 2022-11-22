@@ -26,7 +26,7 @@ Front-end:
 * React Native
 * Full responsive designs for mobile and web.
       
-Tests:
+Tests: 
 * Unit, integration;
 * Jest;
 * React testing library;
